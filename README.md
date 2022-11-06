@@ -4,7 +4,7 @@
 # About
 This is a website that allows user to create their own discord bot with customised commands and features. It's built using DiscordJS, NodeJS, and ReactJS.
 
-#Hosted Site Link
+# Hosted Site Link
 https://botx-customised.herokuapp.com/
 
 ### Preview
