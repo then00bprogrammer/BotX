@@ -1,0 +1,13 @@
+.Dialog {
+    /* background: gray; */
+    background-color: black;
+    color: white;
+    /* padding: 15px; */
+    /* padding-bottom: 5%; */
+    border-radius: 10px;
+    margin: 0 15px;
+    z-index: 100;
+    width: 70vh;
+    height: 80vh;
+    z-index: 1000;
+  }
